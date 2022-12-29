@@ -1,0 +1,16 @@
+{
+  "videoSharingServices": [
+    {
+      "iconType": "external",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+      "name": "Youtube",
+      "url": "https://www.youtube.com/"
+    },
+    {
+      "iconType": "internal",
+      "icon": "linkIcons/niconico.webp",
+      "name": "ニコニコ動画",
+      "url": "http://www.nicovideo.jp/"
+    }
+  ]
+}
